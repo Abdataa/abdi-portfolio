@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abdi-portfolio/static/css/main.2e1ed554.css",
+    "main.js": "/abdi-portfolio/static/js/main.529247b9.js",
+    "static/js/453.9d6a3802.chunk.js": "/abdi-portfolio/static/js/453.9d6a3802.chunk.js",
+    "static/media/abdiPhoto.jpg": "/abdi-portfolio/static/media/abdiPhoto.85bd401544e042add669.jpg",
+    "index.html": "/abdi-portfolio/index.html",
+    "main.2e1ed554.css.map": "/abdi-portfolio/static/css/main.2e1ed554.css.map",
+    "main.529247b9.js.map": "/abdi-portfolio/static/js/main.529247b9.js.map",
+    "453.9d6a3802.chunk.js.map": "/abdi-portfolio/static/js/453.9d6a3802.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1ed554.css",
+    "static/js/main.529247b9.js"
+  ]
+}
